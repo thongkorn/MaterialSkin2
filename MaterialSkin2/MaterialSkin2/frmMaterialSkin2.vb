@@ -7,7 +7,7 @@
 ' / Facebook: http://www.facebook.com/commonindy (Worldwide)
 ' / More Info: http://www.g2gsoft.com
 ' /
-' / Purpose: Login form with MaterialSkin 2.
+' / Purpose: Using MaterialSkin.2 TabControl.
 ' / Microsoft Visual Basic .NET (2017)
 ' /
 ' / This is open source code under @CopyLeft by Thongkorn Tubtimkrob.
